@@ -1,0 +1,191 @@
+equipmentId,courtId,name,arrondissement,courtName,surface,couvert
+545,4582,NEUVE SAINT PIERRE,4,1,Synthétique,True
+267,2536,Poliveau,5,1,Synthétique,True
+330,3118,Valeyre,9,1,Synthétique,False
+15,129,Philippe Auguste,11,1,Synthétique,False
+53,3273,Candie,11,1,Gazon synthétique,False
+53,3272,Candie,11,2,Gazon synthétique,False
+320,3012,Thiéré,11,1,Béton poreux,False
+58,559,Carnot,12,1,Synthétique,True
+58,560,Carnot,12,2,Synthétique,True
+58,562,Carnot,12,3,Synthétique,True
+126,1167,La Faluère,12,1,Béton poreux,False
+126,1168,La Faluère,12,2,Béton poreux,False
+126,1169,La Faluère,12,3,Béton poreux,False
+126,1170,La Faluère,12,4,Béton poreux,False
+126,1171,La Faluère,12,5,Synthétique,False
+126,1172,La Faluère,12,6,Synthétique,False
+126,1173,La Faluère,12,7,Synthétique,False
+126,1174,La Faluère,12,8,Synthétique,False
+126,1175,La Faluère,12,9,Synthétique,False
+126,1176,La Faluère,12,10,Synthétique,False
+126,1177,La Faluère,12,11,Synthétique,False
+126,1178,La Faluère,12,12,Synthétique,False
+126,1179,La Faluère,12,13,Béton poreux,False
+126,1180,La Faluère,12,14,Béton poreux,False
+126,1181,La Faluère,12,15,Béton poreux,False
+126,1182,La Faluère,12,16,Béton poreux,False
+126,1183,La Faluère,12,17,Béton poreux,False
+126,1184,La Faluère,12,18,Béton poreux,False
+126,1185,La Faluère,12,19,Béton poreux,False
+126,1186,La Faluère,12,20,Béton poreux,False
+126,1187,La Faluère,12,21,Béton poreux,False
+174,1665,Léo Lagrange,12,1,Béton poreux,False
+174,1666,Léo Lagrange,12,2,Béton poreux,False
+174,1667,Léo Lagrange,12,3,Béton poreux,False
+174,1668,Léo Lagrange,12,4,Béton poreux,False
+174,1669,Léo Lagrange,12,5,Béton poreux,False
+174,1670,Léo Lagrange,12,6,Synthétique,False
+326,3089,Alain Mimoun,12,1,Béton poreux,True
+326,3090,Alain Mimoun,12,2,Béton poreux,True
+326,3091,Alain Mimoun,12,3,Béton poreux,True
+326,3092,Alain Mimoun,12,4,Béton poreux,False
+326,3094,Alain Mimoun,12,5,Béton poreux,False
+326,3096,Alain Mimoun,12,6,Béton poreux,False
+60,628,Georges Carpentier,13,1,Béton poreux,True
+60,629,Georges Carpentier,13,2,Béton poreux,True
+76,761,Cordelières,13,1,Béton poreux,False
+76,3554,Cordelières,13,2,Synthétique,False
+109,1050,Dunois,13,1,Synthétique,False
+109,1051,Dunois,13,2,Synthétique,False
+218,2039,Moureu - Baudricourt,13,1,Béton poreux,True
+218,2042,Moureu - Baudricourt,13,2,Béton poreux,True
+218,2041,Moureu - Baudricourt,13,3,Béton poreux,True
+218,2043,Moureu - Baudricourt,13,4,Bitume,False
+272,2666,Poterne des Peupliers,13,1,Béton poreux,True
+272,2667,Poterne des Peupliers,13,2,Béton poreux,True
+281,2725,Château des Rentiers,13,1,Synthétique,False
+120,1106,Elisabeth,14,1,Béton poreux,True
+120,1107,Elisabeth,14,2,Béton poreux,True
+120,1108,Elisabeth,14,3,Béton poreux,False
+120,1109,Elisabeth,14,4,Béton poreux,False
+120,1110,Elisabeth,14,5,Béton poreux,False
+120,1111,Elisabeth,14,6,Béton poreux,True
+120,1112,Elisabeth,14,7,Béton poreux,True
+120,1113,Elisabeth,14,8,Synthétique,True
+120,1114,Elisabeth,14,9,Synthétique,True
+12,121,Atlantique,15,1,Synthétique,False
+12,122,Atlantique,15,2,Synthétique,False
+12,3829,Atlantique,15,3,Synthétique,False
+12,3830,Atlantique,15,4,Synthétique,False
+12,3831,Atlantique,15,5,Synthétique,False
+188,1770,Suzanne Lenglen,15,1,Résine,False
+188,1771,Suzanne Lenglen,15,2,Synthétique,False
+188,1772,Suzanne Lenglen,15,3,Synthétique,False
+188,1773,Suzanne Lenglen,15,4,Synthétique,False
+188,1774,Suzanne Lenglen,15,5,Synthétique,False
+188,1775,Suzanne Lenglen,15,6,Béton poreux,False
+188,1776,Suzanne Lenglen,15,7,Béton poreux,False
+188,1777,Suzanne Lenglen,15,8,Béton poreux,False
+188,1778,Suzanne Lenglen,15,9,Béton poreux,False
+188,1779,Suzanne Lenglen,15,10,Béton poreux,False
+188,3559,Suzanne Lenglen,15,11,Béton poreux,True
+188,3560,Suzanne Lenglen,15,12,Béton poreux,True
+188,1782,Suzanne Lenglen,15,13,Bitume,False
+220,3249,René et André Mourlon,15,1,Synthétique,False
+220,3250,René et André Mourlon,15,2,Synthétique,False
+220,3251,René et André Mourlon,15,3,Synthétique,False
+233,2118,Croix Nivert,15,1,Synthétique,False
+257,3267,Rigoulot - La Plaine,15,1,Béton poreux,True
+257,3268,Rigoulot - La Plaine,15,2,Béton poreux,True
+257,3269,Rigoulot - La Plaine,15,3,Béton poreux,True
+257,2466,Rigoulot - La Plaine,15,4,Béton poreux,False
+257,2467,Rigoulot - La Plaine,15,5,Béton poreux,False
+257,2468,Rigoulot - La Plaine,15,6,Béton poreux,False
+257,2469,Rigoulot - La Plaine,15,7,Béton poreux,False
+302,295,Paul Barruel,15,1,Synthétique,False
+303,2862,Sablonnière,15,1,Synthétique,False
+212,1988,Henry de Montherlant,16,1,Béton poreux,False
+212,1989,Henry de Montherlant,16,2,Béton poreux,False
+212,1990,Henry de Montherlant,16,3,Béton poreux,False
+212,1991,Henry de Montherlant,16,4,Béton poreux,False
+212,1992,Henry de Montherlant,16,5,Béton poreux,False
+212,1993,Henry de Montherlant,16,6,Béton poreux,False
+212,1994,Henry de Montherlant,16,7,Béton poreux,False
+273,2104,Niox,16,1,Béton poreux,False
+273,2105,Niox,16,2,Béton poreux,True
+273,2106,Niox,16,3,Béton poreux,True
+273,2107,Niox,16,4,Béton poreux,False
+529,4513,Puteaux,16,1,Béton poreux,False
+529,4514,Puteaux,16,2,Béton poreux,False
+529,4515,Puteaux,16,3,Béton poreux,False
+529,4516,Puteaux,16,4,Béton poreux,False
+529,4517,Puteaux,16,5,Béton poreux,False
+529,4518,Puteaux,16,6,Béton poreux,False
+529,4519,Puteaux,16,7,Béton poreux,False
+529,4520,Puteaux,16,8,Béton poreux,False
+529,4521,Puteaux,16,9,Béton poreux,False
+529,4522,Puteaux,16,10,Béton poreux,False
+529,4523,Puteaux,16,11,Béton poreux,False
+529,4524,Puteaux,16,12,Béton poreux,False
+529,4525,Puteaux,16,13,Béton poreux,False
+529,4526,Puteaux,16,14,Béton poreux,False
+529,4527,Puteaux,16,15,Béton poreux,False
+529,4528,Puteaux,16,16,Béton poreux,False
+529,4529,Puteaux,16,17,Béton poreux,False
+529,4530,Puteaux,16,18,Béton poreux,False
+529,4531,Puteaux,16,19,Béton poreux,False
+529,4532,Puteaux,16,20,Béton poreux,False
+529,4533,Puteaux,16,21,Béton poreux,False
+529,4534,Puteaux,16,22,Synthétique,False
+529,4535,Puteaux,16,23,Béton poreux,False
+529,4536,Puteaux,16,24,Béton poreux,False
+79,2689,Broquedis - Asnières,17,1,Synthétique,False
+79,2690,Broquedis - Asnières,17,2,Synthétique,False
+79,2691,Broquedis - Asnières,17,3,Synthétique,False
+79,2692,Broquedis - Asnières,17,4,Synthétique,False
+79,2693,Broquedis - Asnières,17,5,Béton poreux,False
+79,2694,Broquedis - Asnières,17,6,Béton poreux,False
+79,118,Broquedis - Asnières,17,7,Synthétique,False
+79,119,Broquedis - Asnières,17,8,Synthétique,False
+79,120,Broquedis - Asnières,17,9,Synthétique,False
+81,817,Courcelles,17,1,Béton poreux,False
+81,816,Courcelles,17,2,Béton poreux,False
+81,815,Courcelles,17,3,Béton poreux,False
+81,814,Courcelles,17,4,Béton poreux,False
+85,158,Aurelle de Paladines,17,1,Béton poreux,False
+85,159,Aurelle de Paladines,17,2,Béton poreux,False
+85,160,Aurelle de Paladines,17,3,Béton poreux,False
+293,2848,Max Rousié,17,1,Synthétique,True
+293,2849,Max Rousié,17,2,Synthétique,True
+293,2850,Max Rousié,17,3,Synthétique,True
+67,686,Jesse Owens,18,1,Béton poreux,False
+67,687,Jesse Owens,18,2,Béton poreux,False
+67,688,Jesse Owens,18,3,Béton poreux,False
+92,916,Bertrand Dauvin,18,1,Béton poreux,True
+92,917,Bertrand Dauvin,18,2,Béton poreux,True
+92,918,Bertrand Dauvin,18,3,Béton poreux,True
+264,2522,Poissonniers,18,1,Béton poreux,False
+264,2523,Poissonniers,18,2,Béton poreux,False
+264,2524,Poissonniers,18,3,Béton poreux,False
+567,4701,Halle Fret,18,1,Synthétique,False
+567,4702,Halle Fret,18,2,Synthétique,False
+155,1465,Jandelle,19,1,Synthétique,False
+240,3261,Edouard Pailleron,19,1,Terre battue,True
+240,3262,Edouard Pailleron,19,2,Terre battue,True
+305,2888,Sept arpents,19,1,Béton poreux,True
+305,2889,Sept arpents,19,2,Béton poreux,True
+305,2890,Sept arpents,19,3,Béton poreux,False
+497,4830,Jules Ladoumègue,19,1,Synthétique,True
+497,4388,Jules Ladoumègue,19,1,Synthétique,False
+497,4831,Jules Ladoumègue,19,2,Synthétique,True
+497,4389,Jules Ladoumègue,19,2,Synthétique,False
+497,4832,Jules Ladoumègue,19,3,Synthétique,True
+497,4386,Jules Ladoumègue,19,3,Résine,True
+497,4833,Jules Ladoumègue,19,4,Synthétique,True
+497,4387,Jules Ladoumègue,19,4,Résine,True
+497,4383,Jules Ladoumègue,19,5,Résine,True
+497,4382,Jules Ladoumègue,19,6,Résine,True
+497,4384,Jules Ladoumègue,19,7,Résine,True
+497,4385,Jules Ladoumègue,19,8,Résine,True
+560,4653,Bobigny,19,1,Béton poreux,False
+560,4654,Bobigny,19,2,Béton poreux,False
+560,4655,Bobigny,19,3,Béton poreux,False
+560,4656,Bobigny,19,4,Béton poreux,False
+560,4657,Bobigny,19,5,Béton poreux,False
+560,4658,Bobigny,19,6,Béton poreux,False
+560,4659,Bobigny,19,7,Béton poreux,False
+560,4660,Bobigny,19,8,Béton poreux,False
+2,8,Amandiers,20,2,Synthétique,False
+98,967,Docteurs Déjerine,20,1,Béton poreux,True
+98,968,Docteurs Déjerine,20,2,Béton poreux,True
